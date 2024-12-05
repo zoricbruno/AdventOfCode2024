@@ -16,6 +16,9 @@
     <Content Include="Input\Input_01.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Input\Input_0b.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Input\Input_0a.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
