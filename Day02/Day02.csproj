@@ -10,6 +10,13 @@
   <ItemGroup>
     <None Remove="Input\Input_01.txt" />
     <None Remove="Input\Input_0a.txt" />
+    <None Remove="Input\Input_0b.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Input\Input_0b.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
   <ItemGroup>
